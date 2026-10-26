@@ -6,8 +6,8 @@ A full-stack ticket management application built with React, Vite, Node.js, Expr
 
 | Item | URL |
 |---|---|
-| GitHub repository | `<add repository URL>` |
-| Project explanation video (Google Drive) | `<add video URL>` |
+| GitHub repository | https://github.com/pydigunna/support_ticket_management.git |
+| Project explanation video (Google Drive) | https://drive.google.com/file/d/1ovAe9A5WE-PkFMY3Mp2bgjpxckRoU2CN/view?usp=sharing |
 
 ### Demo credentials
 
